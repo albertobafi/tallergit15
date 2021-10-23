@@ -1,2 +1,3 @@
 primer linea del capitulo c
-y todos vivieron felices para siempre
+<<<<<<< HEAD
+y todos vivieron muertos felices.
